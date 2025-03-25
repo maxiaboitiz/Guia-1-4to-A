@@ -14,7 +14,11 @@ public class DeclaracionDeVariables : MonoBehaviour
     {
         cantidadAlumnos = 24;
         magnitudTerremoto = 9.3f;
+<<<<<<< HEAD
         nombreAlumno = "Máximo";
+=======
+        nombreAlumno = "Jeronimo";
+>>>>>>> c93d6cba8d1f533f280c41f2a0b483c25e88a314
         compuHabilitada = false;
 
         Debug.Log(cantidadAlumnos);
@@ -22,7 +26,10 @@ public class DeclaracionDeVariables : MonoBehaviour
         Debug.Log(nombreAlumno);
         Debug.Log(compuHabilitada);
 
+<<<<<<< HEAD
         
+=======
+>>>>>>> c93d6cba8d1f533f280c41f2a0b483c25e88a314
     }
 
     // Update is called once per frame
