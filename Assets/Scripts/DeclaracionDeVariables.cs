@@ -14,7 +14,7 @@ public class DeclaracionDeVariables : MonoBehaviour
     {
         cantidadAlumnos = 24;
         magnitudTerremoto = 9.3f;
-        nombreAlumno = "Jeronimo";
+        nombreAlumno = "Máximo";
         compuHabilitada = false;
 
         Debug.Log(cantidadAlumnos);
